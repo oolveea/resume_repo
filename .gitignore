@@ -1,0 +1,13 @@
+/*
+!/.gitignore
+!/config.py
+!/dataset.py
+!/model.py
+!/run.py
+!/train.py
+!/utils.py
+!/env.yml
+!/README.md
+!/_assets/
+/_assets/*
+!/_assets/architecture-glance.svg
